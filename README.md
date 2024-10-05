@@ -22,11 +22,5 @@ Object-Oriented Design: 🏗️ The project is designed using a modular approach
 Data Structures: 🗄️ The system uses data structures like arrays or lists to store user accounts and transaction history.
 Input/Output: ⌨️ The project uses Java's input/output streams to interact with the user through the console.
 Error Handling: ❌ Exception handling is implemented to gracefully handle errors and provide informative messages to the user.
-Logging: 📝 The system uses a logging framework (e.g., log4j, SLF4J) to record transaction details and system events.
-Future Enhancements:
 
-Graphical User Interface (GUI): 🖥️ Enhance the user experience by implementing a GUI using JavaFX or Swing.
-Network Integration: 🌐 Connect the ATM to a network to allow users to access their accounts from multiple locations.
-Security Features: 🔐 Implement additional security measures, such as encryption and biometric authentication.
-Integration with Other Systems: 🔗 Integrate the ATM with other banking systems for features like bill payments and loan applications.
-Note: This description provides a basic overview of an ATM project. The specific implementation details may vary depending on the requirements and complexity of the project.
+Note: This description provides a basic overview of an ATM project.
